@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48886679258",
+    "project_id": "whatsapplike-9aa3b",
+    "storage_bucket": "whatsapplike-9aa3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48886679258:android:7abb73bc159c9bb306c7e3",
+        "android_client_info": {
+          "package_name": "com.example.whatsapplike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48886679258-vlg1h8asb0dsp081jecu0blm179lc4bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGtIjN2uWpLClVa6zlr6GLXBNVDRFj-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48886679258-vlg1h8asb0dsp081jecu0blm179lc4bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
